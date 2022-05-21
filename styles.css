@@ -1,0 +1,17 @@
+
+html {
+    background-color: #FBEEC8;
+    background-image: url("./images/neek4.png");
+}
+
+body {
+    text-align: center;
+}
+
+#list {
+    text-align: left;
+}
+
+.score {
+    color: red;
+}
